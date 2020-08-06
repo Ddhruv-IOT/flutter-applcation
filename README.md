@@ -1,2 +1,2 @@
 # flutter-applcation
-it is the repo for flutter app
+It is the repo for flutter app
